@@ -1,4 +1,4 @@
-# Attention-Guided-Autoencoder-for-MRI-based-Disease-Progression-Prediction
+# Attention-Guided-Autoencoder-for-MRI-Analysis
 This is the demo code for the following paper:
 Hao Guan, Ling Yue, Pew-Thian Yap, Shifu Xiao, Andrea Bozoki, Mingxia Liu. 
 Attention-Guided Autoencoder for Automated Progression Prediction of Subjective Cognitive Decline with Structural MRI. 
